@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{97d10796-8e76-40ff-8aea-fe629254a765}</ProjectGuid>
-    <RootNamespace>morsecode</RootNamespace>
+    <ProjectGuid>{ee9b3f58-935f-42ed-a991-6e34c7bcc0ad}</ProjectGuid>
+    <RootNamespace>My0721lke</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="이가희_morse.c" />
+    <ClCompile Include="강은_morse.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
